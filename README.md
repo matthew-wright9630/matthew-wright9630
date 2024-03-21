@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, and Javascript with TripleTen's Software Engineering bootcamp
 - 📫 How to reach me: Matthew.wright9630@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy learning to code, and working with my 3D printer.
+- ⚡ Fun fact: I have a twin brother I enjoy playing video games with.
 
 <!---
 matthew-wright9630/matthew-wright9630 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
